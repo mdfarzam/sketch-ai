@@ -138,8 +138,6 @@ export default function LoginPage() {
                         <span>Microsoft</span>
                     </Button>
                 </div>
-
-
                 <div className="bg-muted rounded-(--radius) border p-2 m-3">
                     <p className="text-accent-foreground text-center text-sm">
                         Have an account ?
